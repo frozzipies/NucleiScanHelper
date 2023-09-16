@@ -20,7 +20,7 @@ Before running the script, make sure you have the following prerequisites instal
 
 1. Clone this repository to your local machine:
 
-   ``git clone https://github.com/frozzipies/NucleiScanHelper```
+   ```git clone https://github.com/frozzipies/NucleiScanHelper```
 
 2. Navigate to the directory
 
